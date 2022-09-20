@@ -1,0 +1,24 @@
+.siginContainer
+{
+    margin: 1rem 1rem;
+}
+/* header */
+
+.signinHeader
+{
+    align-items: center;
+    justify-content: center;
+}
+
+.signinText
+{
+    margin-top: 0.5rem;
+    font-family: monospace;
+    letter-spacing: -1px;
+}
+
+
+.signinFooter
+{
+    margin-top: 2rem;
+}
